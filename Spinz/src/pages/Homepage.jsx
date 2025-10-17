@@ -2,7 +2,7 @@ const Homepage = () => {
   return (
     <div>
       <h1>Welcome to Spinz</h1>
-      <p>Your one-stop solution for all things spinning!</p>
+      <p>Your one-stop solution for all your car hire needs!</p>
     </div>
   );
 };
